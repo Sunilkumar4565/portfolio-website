@@ -356,6 +356,7 @@ div .nav-bar ul a:hover::after,.myName:hover::after{
 }
 .contact-left{
     flex-basis: 40%;
+    margin-right: 150px
 }
 .contact-right{
     flex-basis: 50%;
