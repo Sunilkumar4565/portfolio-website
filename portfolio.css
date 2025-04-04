@@ -411,8 +411,7 @@ form .btn2{
       padding: 14px 60px;
       font-size: 18px;
       margin-top: 20px;
-      cursor:all-scroll;
-      margin-left: 150px;
+      cursor:cursor;
 }
 .copyright{
     width: 100%;
@@ -544,8 +543,7 @@ body {
     width: 100%; /* Full width input fields */
 }
 .about-col-1 img{
-    height: 100px;
-    width: 100px;
+    height: 300px;
 }
 
 }
