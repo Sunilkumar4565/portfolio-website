@@ -532,7 +532,7 @@ nav .bi{
     width: 150px;
     padding: 12px 10px;
 }
-.btn.btn2{
+.submit-btn{
     display:flex;
     justify-content:center;
     text-align:center;
