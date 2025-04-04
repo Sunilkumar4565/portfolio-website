@@ -436,7 +436,6 @@ nav .bi{
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    height: 800px; 
     }
     .header-text h1{
         font-size: 30px;
@@ -544,8 +543,7 @@ body {
     width: 100%; /* Full width input fields */
 }
 .about-col-1 img{
-    height: 100px;
-    width: 100px;
+    height: 300px;
 }
 
 }
