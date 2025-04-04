@@ -524,6 +524,9 @@ nav .bi{
     width: 150px;
     padding: 12px 10px;
 }
+.btn.btn2{
+     text-align:center;
+}
 #submit{
     padding-left: 10px;
     padding-right: 10px;
