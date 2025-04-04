@@ -430,6 +430,14 @@ nav .bi{
 
 }
 @media only screen and (max-width:600px){
+    #header{
+    background-image: url(./pexels-rpnickson-2486168.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    height: 800px; 
+    }
     .header-text h1{
         font-size: 30px;
     }
